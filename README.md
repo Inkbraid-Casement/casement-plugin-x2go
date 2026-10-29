@@ -30,7 +30,7 @@ See [CHANGELOG.md](CHANGELOG.md).
 ## Installing
 
 Download the zip for the latest release from this repository's
-[Releases](https://github.com/Inkbraid/casement-plugin-x2go/releases) and
+[Releases](https://github.com/Inkbraid-Casement/casement-plugin-x2go/releases) and
 unpack it so that you get
 
 ```
@@ -302,7 +302,7 @@ Third-party components built into the program:
 Casement itself is a separate program that talks to this plugin only through
 the documented protocol in [docs/plugin-protocol.md](docs/plugin-protocol.md);
 the plugin's licence does not extend to it. That document is a copy from
-[Inkbraid/casement-plugin-protocol](https://github.com/Inkbraid/casement-plugin-protocol),
+[Inkbraid-Casement/casement-plugin-protocol](https://github.com/Inkbraid-Casement/casement-plugin-protocol),
 licensed CC BY 4.0. The icon is the project's own artwork
 (`tools/make-icon.py`).
 

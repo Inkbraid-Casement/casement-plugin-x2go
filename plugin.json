@@ -7,7 +7,7 @@
   "icon": "icon.png",
   "program": "casement-x2go.exe",
   "args": [],
-  "homepage": "https://github.com/Inkbraid/casement-plugin-x2go",
+  "homepage": "https://github.com/Inkbraid-Casement/casement-plugin-x2go",
   "capabilities": ["password", "clipboard", "cursor", "resize"],
   "connections": [
     {
